@@ -444,13 +444,11 @@ if (alumno1.nota >= 8) {
       cursoElegidoAlumno4 != 4
     );
   }
+
   /************************************************************************************************************************/
-  // OBJETO CREADO A PARTIR DE LOS RESULTADOS DE LOS PROMPT
-  const valoresAlumnos =
-    /************************************************************************************************************************/
-    // ARRAYS
-    // Array 2
-    console.log("***********LLAMADO AL ARRAY 2**********");
+  // ARRAYS
+  // Array 2
+  console.log("***********LLAMADO AL ARRAY 2**********");
   const alumnosYSusNotas = [
     {
       nombre: alumno1.nombre,
